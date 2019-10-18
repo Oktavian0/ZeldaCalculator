@@ -6,6 +6,7 @@ import java.util.ArrayList;
 public abstract class Game {
 
     // Test
+    // Test 2
 
     String Name;
     boolean[] Initialization = new boolean[3];
