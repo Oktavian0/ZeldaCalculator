@@ -5,6 +5,8 @@ import java.util.ArrayList;
  */
 public abstract class Game {
 
+    // Test
+
     String Name;
     boolean[] Initialization = new boolean[3];
     boolean monstersExist;
